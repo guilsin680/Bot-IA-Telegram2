@@ -1,0 +1,11 @@
+home_goals,away_goals,result
+2,1,home_win
+1,1,draw
+0,2,away_win
+3,0,home_win
+1,2,away_win
+0,0,draw
+2,2,draw
+1,0,home_win
+0,1,away_win
+2,3,away_win
